@@ -27,8 +27,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/SqlParserProject.git
-   cd SqlParserProject
+   git clone https://github.com/AntoineDolley/sql-parser-scala.git
+   cd sql-parser-scala
    ```
 2. **Build the Project**
     ```bash
@@ -64,6 +64,6 @@ Generate Scaladoc using sbt:
  ```
 Open the generated documentation in a browser:
 ```bash
-   target/scala-2.13/api/index.html
+   target/scala-3.3.4/api/index.html
  ```
 
